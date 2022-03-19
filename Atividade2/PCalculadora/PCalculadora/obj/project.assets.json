@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laufe\\OneDrive\\Documentos\\fatec\\LP2\\Atividade1\\PVolume\\PVolume\\PVolume.csproj",
-      "projectName": "PVolume",
-      "projectPath": "C:\\Users\\laufe\\OneDrive\\Documentos\\fatec\\LP2\\Atividade1\\PVolume\\PVolume\\PVolume.csproj",
+      "projectUniqueName": "C:\\Users\\laufe\\OneDrive\\Documentos\\fatec\\LP2\\Atividade2\\PCalculadora\\PCalculadora\\PCalculadora.csproj",
+      "projectName": "PCalculadora",
+      "projectPath": "C:\\Users\\laufe\\OneDrive\\Documentos\\fatec\\LP2\\Atividade2\\PCalculadora\\PCalculadora\\PCalculadora.csproj",
       "packagesPath": "C:\\Users\\laufe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laufe\\OneDrive\\Documentos\\fatec\\LP2\\Atividade1\\PVolume\\PVolume\\obj\\",
+      "outputPath": "C:\\Users\\laufe\\OneDrive\\Documentos\\fatec\\LP2\\Atividade2\\PCalculadora\\PCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laufe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

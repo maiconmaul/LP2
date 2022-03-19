@@ -15,3 +15,4 @@ C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade2\PCalculadora\PCalculador
 C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade2\PCalculadora\PCalculadora\obj\Debug\net6.0-windows\PCalculadora.genruntimeconfig.cache
 C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade2\PCalculadora\PCalculadora\obj\Debug\net6.0-windows\ref\PCalculadora.dll
 C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade2\PCalculadora\PCalculadora\obj\Debug\net6.0-windows\PCalculadora.Form1.resources
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade2\PCalculadora\PCalculadora\obj\Debug\net6.0-windows\PCalculadora.Properties.Resources.resources

@@ -1,0 +1,11 @@
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\bin\Debug\PCalculadoraIMC.exe.config
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\bin\Debug\PCalculadoraIMC.exe
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\bin\Debug\PCalculadoraIMC.pdb
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\obj\Debug\PCalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\obj\Debug\PCalculadoraIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\obj\Debug\PCalculadoraIMC.Form1.resources
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\obj\Debug\PCalculadoraIMC.Properties.Resources.resources
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\obj\Debug\PCalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\obj\Debug\PCalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\obj\Debug\PCalculadoraIMC.exe
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade3\PCalculadoraIMC\PCalculadoraIMC\obj\Debug\PCalculadoraIMC.pdb

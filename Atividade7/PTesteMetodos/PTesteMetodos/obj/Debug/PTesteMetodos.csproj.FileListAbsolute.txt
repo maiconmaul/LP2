@@ -1,0 +1,29 @@
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE6\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio5.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio5.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE 7\PTesteMetodos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb

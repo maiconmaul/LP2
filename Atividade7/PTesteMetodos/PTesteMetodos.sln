@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTesteMetodos", "PTesteMetodos\PTesteMetodos.csproj", "{D984517B-40BF-428C-A23E-A9BF59A7E5D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D984517B-40BF-428C-A23E-A9BF59A7E5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D984517B-40BF-428C-A23E-A9BF59A7E5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D984517B-40BF-428C-A23E-A9BF59A7E5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D984517B-40BF-428C-A23E-A9BF59A7E5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7475889-3D68-41AB-9B0F-B1F047C9E2B9}
+	EndGlobalSection
+EndGlobal

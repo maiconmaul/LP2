@@ -1,0 +1,11 @@
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\bin\Debug\PSalario.exe.config
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\bin\Debug\PSalario.exe
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\bin\Debug\PSalario.pdb
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\obj\Debug\PSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\obj\Debug\PSalario.Form1.resources
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\obj\Debug\PSalario.exe
+C:\Users\laufe\OneDrive\Documentos\fatec\LP2\Atividade4\PSalario\PSalario\obj\Debug\PSalario.pdb

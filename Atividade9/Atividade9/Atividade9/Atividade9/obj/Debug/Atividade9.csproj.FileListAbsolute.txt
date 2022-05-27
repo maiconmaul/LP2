@@ -1,0 +1,33 @@
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\bin\Debug\Atividade9.exe.config
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\bin\Debug\Atividade9.exe
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\bin\Debug\Atividade9.pdb
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.Form1.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio1.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.Properties.Resources.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.exe
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.pdb
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio2.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio3.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio4.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio5.resources
+C:\Users\nicol\OneDrive\FATEC SOROCABA\2 Semestre - [LP2] Linguagem de Programção II VB  - Copia\ATIVIDADE9\Atividade9\Atividade9\obj\Debug\Atividade9.Exercicio_3.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\bin\Debug\Atividade9.exe.config
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\bin\Debug\Atividade9.exe
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\bin\Debug\Atividade9.pdb
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.csproj.AssemblyReference.cache
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.csproj.SuggestedBindingRedirects.cache
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.Exercicio_3.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.Form1.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio1.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio2.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio3.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio4.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.frmExercicio5.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.Properties.Resources.resources
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.csproj.GenerateResource.cache
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.csproj.CoreCompileInputs.cache
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.exe
+C:\Users\laufe\Downloads\LP2-main\LP2-main\ATIVIDADE9\Atividade9\Atividade9\Atividade9\obj\Debug\Atividade9.pdb
